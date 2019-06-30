@@ -1,0 +1,9 @@
+{
+  "id": "(string) unique id of the event",
+  "timestamp": "(timestamp) utc timestamp of the event",
+  "products": [
+    {
+      "id": "(long) id of the product"
+    }
+  ]
+}
